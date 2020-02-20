@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\Consoletareas\bin\Debug\Consoletareas.exe.config
+C:\Users\Acer\source\repos\Consoletareas\bin\Debug\Consoletareas.exe
+C:\Users\Acer\source\repos\Consoletareas\bin\Debug\Consoletareas.pdb
+C:\Users\Acer\source\repos\Consoletareas\obj\Debug\Consoletareas.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Consoletareas\obj\Debug\Consoletareas.exe
+C:\Users\Acer\source\repos\Consoletareas\obj\Debug\Consoletareas.pdb
